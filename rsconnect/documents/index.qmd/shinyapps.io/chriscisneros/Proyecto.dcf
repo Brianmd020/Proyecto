@@ -1,0 +1,14 @@
+name: Proyecto
+title: Proyecto
+username: chriscisneros
+account: chriscisneros
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12293327
+bundleId: 8841246
+url: https://chriscisneros.shinyapps.io/Proyecto/
+version: 1
+quarto_version: 1.4.555
+quarto_engines: knitr
+asMultiple: FALSE
+asStatic: FALSE

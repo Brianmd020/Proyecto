@@ -1,0 +1,14 @@
+name: Proyecto
+title: Proyecto
+username: venuzz
+account: venuzz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12293351
+bundleId: 8841275
+url: https://venuzz.shinyapps.io/Proyecto/
+version: 1
+quarto_version: 1.4.555
+quarto_engines: knitr
+asMultiple: FALSE
+asStatic: FALSE
